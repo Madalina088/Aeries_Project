@@ -170,7 +170,7 @@ Risks:
 
 ### 3.5 Traceability matrix ###
 
- - link to traceability matrix *vom incarca pe github un screenshot din Jira
+ - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)
 
 ### 3.6 Test case results ###
 
@@ -178,7 +178,7 @@ Risks:
 
 ### 3.7 Bugs report ###
 
- - the bugs reported could be found here: *vom adauga link catre document cu defectele raportate in Jira pt test case-urile failed 
+ - the bugs reported could be found here: *[Bugs Report ](https://github.com/Madalina088/Aeries_Project/blob/main/Bugs%20report.csv)
 
 ### 3.8 Test completion report ###
 
