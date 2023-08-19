@@ -159,7 +159,7 @@ Risks:
 
 ### 3.3	  Test cases ###
 
- - the test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases will be exported from Jira. 
+ - the test cases with steps could be found here: *[Test Cases. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
