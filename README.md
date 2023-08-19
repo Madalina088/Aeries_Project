@@ -163,9 +163,10 @@ Risks:
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)")
-![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20the%20password_functionality%20Version%201.0.png)")
-![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20the%20password_functionality%20Version%201.0.png)")
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
+![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)
+![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20the%20password_functionality%20Version%201.0.png)
+![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Sign%20In%20functionality%20Version%201.0.png)
 
 ### 3.5 Traceability matrix ###
 
