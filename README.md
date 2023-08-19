@@ -146,7 +146,7 @@ Risks:
 
 ## 3.	Test deliverables ##
 
-### 3.1 Test plan - link to test plan ###
+### 3.1 Test plan - [link to test plan](https://github.com/Madalina088/Aeries_Project/tree/main) ###
 
 -	the Test Plan is designed to describe all the details of testing for the following features: 
 -	the plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
