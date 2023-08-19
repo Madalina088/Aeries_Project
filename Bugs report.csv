@@ -1,0 +1,56 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Affects versions,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Custom field (Request participants),Satisfaction rating,Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Work category),Custom field ([CHART] Date of First Response),Status Category
+"The email adress has changed even if the field ""Old password"" was empty",AP-23,10056,Bug,Backlog,AP,Aeries_Project,software,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,Medium,,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,8/18/2023 16:56,8/20/2023 0:01,8/20/2023 0:17,,,"""Change email"" functionality Version 1.0",,0,"Preconditions:
+
+The user has to be logged into the application with valid credentials
+
+Steps to reproduce:
+
+#Acces settings for user ""parent@aeries.com"" from Top Menu Bar
+#Click on ""Change Email"" from dropdown list
+#Click on ""Edit""
+#Enter the new email address in the field ""New Email""
+#Leave the field ""Portal Password"" empty
+#Click on ""Change email""
+
+Actual result 
+The email adress has changed even if the field ""Old password"" was empty
+
+Expected result
+An error message should appears ""Please re-enter your password"" 
+",,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,,,,,,,,AP-3,,,,,,,,,,,,,0|i000br:,,,,,,,,,,,,,To Do
+"The window to change email doesn't disappear when click on ""cancel"" button",AP-22,10055,Bug,Backlog,AP,Aeries_Project,software,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,Medium,,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,8/18/2023 16:23,8/19/2023 23:42,8/19/2023 23:59,,"""Change email"" functionality Version 1.0","""Change email"" functionality Version 1.0",,0,"Preconditions:
+
+The usser has to be logged into the application with valid credentials
+
+Steps to reproduce: 
+
+#Acces setting for user ""parent@aeries.com"" from Top Menu Bar
+#Click on ""change Email"" from dropdown list
+#Click on ""Edit""
+#Click on ""Cancel""
+
+Actual result 
+The window to change email doesn't disappear when you click on ""cancel"" button
+
+Expected result 
+The window displayed is closed
+",Testing,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,,,,,,,,AP-3,,,,,,,,,,,,,0|i000bj:,,,,,,,,,,,,,To Do
+"The password changed even if the field ""Old password"" was empty",AP-21,10054,Bug,Backlog,AP,Aeries_Project,software,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,Medium,,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,8/18/2023 15:43,8/18/2023 15:43,8/20/2023 0:06,,"""Change the password"" functionality Version 1.0","""Change the password"" functionality Version 1.0",,0,"Preconditions:
+
+The user has to be logged into the application with valid credentials.
+
+Steps to reproduce:
+
+#Acces settings for user ""parent@aeries.com"" from ""Top Menu Bar""
+#Click on ""change the password"" from dropdown list
+#Leave the field ""Old password"" empty
+#Enter valid ""New Password""
+#Enter valid ""New password again"" 
+#Click on ""Update""
+
+Actual result 
+The password changed even if the field ""Old password"" was empty
+
+Expected result
+The password has not change, The message error should be ""Old password required""
+",Testing,Bogdan Madalina,712020:b698f107-e2d4-49e3-8f3a-0f2a36c5a01a,,,,,,,,,AP-2,,,,,,,,,,,,,0|i000bb:,,,,,,,,,,,,,To Do
