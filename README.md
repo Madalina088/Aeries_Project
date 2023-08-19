@@ -163,7 +163,7 @@ Risks:
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile. 
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)")
 
 ### 3.5 Traceability matrix ###
 
