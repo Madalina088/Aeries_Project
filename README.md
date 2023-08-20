@@ -170,7 +170,7 @@ Risks:
 
 ### 3.5 Traceability matrix ###
 
- - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)
+ - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_1.png)
 
 ### 3.6 Test case results ###
 
