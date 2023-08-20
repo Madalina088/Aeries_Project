@@ -155,7 +155,7 @@ Risks:
 
 -	we will use test environment
 -	testing using new accounts and older account is necessary
--	the following test conditions could be found here: *[Test Conditions. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx).
+-	the following test conditions could be found here: *[Test Conditions. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
 
 ### 3.3	  Test cases ###
 
@@ -174,7 +174,7 @@ Risks:
 
 ### 3.6 Test case results ###
 
- -  the test cases results could be found here: *[Test Cases results. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
+ -  the test cases results could be found here: *[Test Cases Results. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
 
 ### 3.7 Bugs report ###
 
