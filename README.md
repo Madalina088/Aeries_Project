@@ -174,7 +174,7 @@ Risks:
 
 ### 3.6 Test case results ###
 
- -  the test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira. 
+ -  the test cases results could be found here: *[Test Cases. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
 
 ### 3.7 Bugs report ###
 
