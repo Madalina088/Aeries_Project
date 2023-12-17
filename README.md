@@ -53,7 +53,7 @@ This release will have limited features. Over a period of time, new and new func
 ### 1.1	Project Objective ###
 
 We need to find and prevent defects and raise the trust in the quality of the project as high as possible before releasing it to customers.
-Application under test: `https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234`
+Application under test: [Aeries Parent Portal](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
 Application documentation: 
 [suporting documentation](https://support.aeries.com/support/home) - [API documentation](https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation)
 
@@ -138,7 +138,7 @@ Risks:
 
 -	at least 90% of tests are passed
 -	no Critical issues have Open status
--	exploratory testing have been performed
+-	exploratory testing has been performed
 
 ### 2.7 Test monitoring and control ###
 
