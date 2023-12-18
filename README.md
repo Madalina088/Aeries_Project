@@ -53,8 +53,8 @@ This release will have limited features. Over a period of time, new and new func
 ### 1.1	Project Objective ###
 
 We need to find and prevent defects and raise the trust in the quality of the project as high as possible before releasing it to customers.
-Application under test: [Aeries Parent Portal](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
-Application documentation: 
+- Application under test: [Aeries Parent Portal](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
+- Application documentation: 
 [suporting documentation](https://support.aeries.com/support/home) - [API documentation](https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation)
 
 ### 1.2 Functionalities in scope ###
@@ -85,10 +85,8 @@ Entry criteria:
 
 -	functional business specifications are defined
 -	test plan document is defined 
--	test cases that cover all the requirements mentioned in the documentation and test data are created 
 -	roles needed for the project are allocated
--	testing environment is up and running
--	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+
 
 Exit criteria:
 
@@ -118,8 +116,8 @@ Risks:
 ### 2.3 Test design ###
 
 -	all the test cases are written and reviewed 
--	functional test cases will be created in Zephyr Squad using Jira as Test Management tool
--	GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+-	functional test cases will be created in Jira Software Development Management Tool using Zephyr Squad Test Management Tool
+-	GUI test cases will be created in Jira Software Development Management Tool using Zephyr Squad Test Management Tool
   
 ### 2.4 Test implementation ###
 
@@ -137,7 +135,7 @@ Risks:
 ### 2.6 Test closure ###
 
 -	at least 90% of tests are passed
--	no Critical issues have Open status
+-	no critical issues have Open status
 -	exploratory testing has been performed
 
 ### 2.7 Test monitoring and control ###
@@ -164,9 +162,11 @@ Risks:
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
  - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
-![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20email%20functionality%20Version%201.0.png)
-![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Change%20the%20password_functionality%20Version%201.0.png)
-![Daily report!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project%20(AP)_Sign%20In%20functionality%20Version%201.0.png)
+<p float="left">
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20email%20functionality%20V%201.0.png" width="33%" />
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20the%20password_functionality%20V%201.0.png" width="33%" />
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Sign%20In%20functionality%20V%201.0.png" width="33%" />
+</p>
 
 ### 3.5 Traceability matrix ###
 
