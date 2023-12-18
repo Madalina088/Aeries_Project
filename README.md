@@ -170,7 +170,7 @@ Risks:
 
 ### 3.5 Traceability matrix ###
 
- - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_1.png)
+ - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_2.png)
 
 ### 3.6 Test case results ###
 
