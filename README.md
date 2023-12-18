@@ -163,9 +163,9 @@ Risks:
 
  - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
 <p float="left">
-  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20email%20functionality%20V%201.0.png" width="33%" />
-  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20the%20password_functionality%20V%201.0.png" width="33%" />
-  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Sign%20In%20functionality%20V%201.0.png" width="33%" />
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20email%20functionality%20V%201.0.png" width="33%"/>
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20the%20password_functionality%20V%201.0.png" width="33%"/>
+  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Sign%20In%20functionality%20V%201.0.png" width="33%"/>
 </p>
 
 ### 3.5 Traceability matrix ###
