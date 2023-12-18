@@ -1,0 +1,56 @@
+Summary,Issue key,Issue Type,Priority,Reporter,Created,Updated,Affects versions,Fix versions,Description,Inward issue link (Relates)
+"The email adress has changed even if the field ""Old password"" was empty",AP-23,Bug,Medium,Bogdan Madalina,8/18/2023 16:56,8/20/2023 0:01,,"""Change email"" functionality Version 1.0","Preconditions:
+
+The user has to be logged into the application with valid credentials
+
+Steps to reproduce:
+
+#Acces settings for user ""parent@aeries.com"" from Top Menu Bar
+#Click on ""Change Email"" from dropdown list
+#Click on ""Edit""
+#Enter the new email address in the field ""New Email""
+#Leave the field ""Portal Password"" empty
+#Click on ""Change email""
+
+Actual result 
+The email adress has changed even if the field ""Old password"" was empty
+
+Expected result
+An error message should appears ""Please re-enter your password"" 
+",AP-3
+"The window to change email doesn't disappear when click on ""cancel"" button",AP-22,Bug,Medium,Bogdan Madalina,8/18/2023 16:23,8/19/2023 23:42,"""Change email"" functionality Version 1.0","""Change email"" functionality Version 1.0","Preconditions:
+
+The usser has to be logged into the application with valid credentials
+
+Steps to reproduce: 
+
+#Acces setting for user ""parent@aeries.com"" from Top Menu Bar
+#Click on ""change Email"" from dropdown list
+#Click on ""Edit""
+#Click on ""Cancel""
+
+Actual result 
+The window to change email doesn't disappear when you click on ""cancel"" button
+
+Expected result 
+The window displayed is closed
+",AP-3
+"The password changed even if the field ""Old password"" was empty",AP-21,Bug,Medium,Bogdan Madalina,8/18/2023 15:43,8/18/2023 15:43,"""Change the password"" functionality Version 1.0","""Change the password"" functionality Version 1.0","Preconditions:
+
+The user has to be logged into the application with valid credentials.
+
+Steps to reproduce:
+
+#Acces settings for user ""parent@aeries.com"" from ""Top Menu Bar""
+#Click on ""change the password"" from dropdown list
+#Leave the field ""Old password"" empty
+#Enter valid ""New Password""
+#Enter valid ""New password again"" 
+#Click on ""Update""
+
+Actual result 
+The password changed even if the field ""Old password"" was empty
+
+Expected result
+The password has not change, The message error should be ""Old password required""
+",AP-2
