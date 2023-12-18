@@ -69,7 +69,7 @@ Login Module, Settings Module: Change Password, Change E-mail, Configure Grade A
 
 -	the features out of scope: Settings Module: Configure Grade Alerts, Add New Student To Your Account, Log Out
 -	non-functional testing like stress, load, performance is beyond scope of this project
--	no QA support for mobile applications developed. Only web applications will be tested
+-	no QA support for mobile applications developed, only web applications will be tested
 -	automation testing is beyond scope.
 
 ## 2.	Test process ##
@@ -99,14 +99,18 @@ Exit criteria:
 -	regression tests are passed
   
 Risks:
-
+Project Risks: 
 -	the complexity of requirements and the large number of changes may cause delay 
 -	stability risks (crashes, disconnects, etc)
+-	insufficient resources
+
+
+Product Risks:
 -	Internet Explorer browser might have performance issues
 -	versions of Internet Explorer browser older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
 -	the web page pagination could be impacted when opened on mobile devices
+-	new browser might not be supported
 -	stress conditions might impact the web application
--	new browser might not be supported 
 
 ### 2.2 Test analysis ### 
 
@@ -123,8 +127,9 @@ Risks:
 
 -	all the test data is available and reviewed (test data = email example, password example)
 -	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
--	Cycle summary was created and test cases were added to the cycle summary 
--	Test environment is up and running: `https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234`
+-	cycle summary was created and test cases were added to the cycle summary 
+-	test environment is up and running: [link to test environment](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
+-	smoke test passed 
 
 ### 2.5 Test execution ###
 
