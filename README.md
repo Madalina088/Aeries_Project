@@ -62,7 +62,7 @@ We need to find and prevent defects and raise the trust in the quality of the pr
 - the following functionalities are going to be tested: 
 Login Module, Settings Module: Change Password, Change E-mail, Configure Grade Alerts, Add New Student To Your Account, Log Out
 -	the features in scope for testing: Login Module, Settings Module: Change Password, Change E-mail
--	testing types used: Functional testing like Smoke Testing, GUI Functional Testing
+-	testing types used: Functional testing like Graphical User Interface(GUI) Functional Testing
 -	test level: System Testing 
 
 ### 1.3	 Functionalities and tests out of scope ###
@@ -93,7 +93,6 @@ Exit criteria:
 -	all test cases have been executed 
 -	90% of tests are passed
 -	no critical issues/bugs have open status (All unresolved bugs have low priority and low severity)
--	exploratory testing performed on the features: Login Module, Settings Module: Change Password, Change E-mail
 -	update tests are 100% passed (update tests will not generate other new issues that impact the application)
 -	complete functional coverage
 -	regression tests are passed
@@ -107,10 +106,10 @@ Project Risks:
 
 Product Risks:
 -	Internet Explorer browser might have performance issues
--	versions of Internet Explorer browser older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
+-	versions of Internet Explorer browser older than 1.5923e have security vulnerabilities 
 -	the web page pagination could be impacted when opened on mobile devices
 -	new browser might not be supported
--	stress conditions might impact the web application
+
 
 ### 2.2 Test analysis ### 
 
@@ -120,8 +119,8 @@ Product Risks:
 ### 2.3 Test design ###
 
 -	all the test cases are written and reviewed 
--	functional test cases will be created in Jira Software Development Management Tool using Zephyr Squad Test Management Tool
--	GUI test cases will be created in Jira Software Development Management Tool using Zephyr Squad Test Management Tool
+-	functional test cases will be created in Zephyr Squad Test Management Tool using Jira Software Development Management Tool  
+-	GUI test cases will be created in Zephyr Squad Test Management Tool using Jira Software Development Management Tool  
   
 ### 2.4 Test implementation ###
 
@@ -151,7 +150,7 @@ Product Risks:
 
 ### 3.1 Test plan - [link to test plan](https://github.com/Madalina088/Aeries_Project/tree/main) ###
 
--	the Test Plan is designed to describe all the details of testing for the following features: 
+-	the Test Plan is designed to describe all the details of testing for the following features: Login Module, Settings Module: Change Password, Change E-mail
 -	the plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
 ### 3.2 Test conditions ###
