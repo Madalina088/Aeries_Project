@@ -165,12 +165,13 @@ Product Risks:
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
+ - The report for the executed tests was generated after all the tests were run
 <p float="left">
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20email%20functionality%20V%201.0.png" width="32%"/>
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20the%20password_functionality%20V%201.0.png" width="33%"/>
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Sign%20In%20functionality%20V%201.0.png" width="32%"/>
 </p>
+ - Report for the total number of tests executed, out of total 17 tests executed: 14 tests were successfully executed for 3 tests reported errors
 
 ### 3.5 Traceability matrix ###
 
