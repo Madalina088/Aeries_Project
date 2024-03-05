@@ -1,7 +1,9 @@
 # Aeries_Project #
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
-| 14.07.2023 | Test Plan for version 1.0 | Madalina Bogdan|   |
+| 14.07.2023 | Test Plan for version 1.0 | Madalina Bogdan|             |
+| 05.03.2023 | Test Plan for version 1.1 | Madalina Bogdan|adding the last details for the implementation of the tests    |
+
 
 1. Introduction
 
@@ -78,8 +80,8 @@ Login Module, Settings Module: Change Password, Change E-mail, Configure Grade A
 
 Roles and responsibilities
 
-| Tester  | Madalina Bogdan  | Will test:  Login Module, Change Password, Change Email | Comments | 
-|---|---|---|---|
+| Tester  | Madalina Bogdan  | Will test:  Login Module, Change Password, Change Email | 
+|---|---|---|
 
 Entry criteria:
 
@@ -165,21 +167,23 @@ Product Risks:
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report ###
 
- - The report for the executed tests was generated after all the tests were run
+ - The report for the executed tests was generated after all the tests were run, out of total 17 tests executed: 14 tests were successfully executed for 3 tests reported errors
+   
 <p float="left">
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20email%20functionality%20V%201.0.png" width="32%"/>
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Change%20the%20password_functionality%20V%201.0.png" width="33%"/>
   <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Sign%20In%20functionality%20V%201.0.png" width="32%"/>
 </p>
- - Report for the total number of tests executed, out of total 17 tests executed: 14 tests were successfully executed for 3 tests reported errors
+
 
 ### 3.5 Traceability matrix ###
+
+- Traceability matrix report:
+![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_2.png)
 
 - for the first business requirement 7 tests were executed, of which 5 tests ran successfully and for 2 of them I reported defects (errors)
 - for the second business requirement 5 tests were executed, of which 4 tests ran successfully and for 1 of them I reported defect (error)
 - for the third business requirement 3 tests were executed, all of them ran successfully
-
-- link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_2.png)
 
 ### 3.6 Test case results ###
 
