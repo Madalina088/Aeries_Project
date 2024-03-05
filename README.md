@@ -175,7 +175,11 @@ Product Risks:
 
 ### 3.5 Traceability matrix ###
 
- - link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_2.png)
+- for the first business requirement 7 tests were executed, of which 5 tests ran successfully and for 2 of them I reported defects (errors)
+- for the second business requirement 5 tests were executed, of which 4 tests ran successfully and for 1 of them I reported defect (error)
+- for the third business requirement 3 tests were executed, all of them ran successfully
+
+- link to traceability matrix ![Traceability matrix!](https://github.com/Madalina088/Aeries_Project/blob/main/Aeries_Project_Traceability%20Matrix_2.png)
 
 ### 3.6 Test case results ###
 
