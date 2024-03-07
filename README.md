@@ -133,7 +133,7 @@ Product Risks:
 ### 2.5 Test execution ###
 
 -	the tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera Brave and Internet Explorer browsers
--	test cases will be executed on the created Test Cycle Summary
+-	test cases will be executed on the created Test Cycle Summary  <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Cycle%20Summary.png" width="75%"/>
 -	bugs will be reported based on the failed tests
 
 ### 2.6 Test closure ###
