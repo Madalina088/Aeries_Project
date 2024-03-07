@@ -144,7 +144,7 @@ Product Risks:
 
 ### 2.7 Test monitoring and control ###
 
--	various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
+-	various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. <img src="https://github.com/Madalina088/Aeries_Project/blob/main/Daily%20Test%20Execution%20Progress.png" width="75%"/>
 
 ## 3.	Test deliverables ##
 
