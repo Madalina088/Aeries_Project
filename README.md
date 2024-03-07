@@ -126,7 +126,6 @@ Product Risks:
 ### 2.4 Test implementation ###
 
 -	all the test data is available and reviewed (test data = email example, password example)
--	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 -	cycle summary was created and test cases were added to the cycle summary 
 -	test environment is up and running: [link to test environment](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
 -	smoke test passed 
