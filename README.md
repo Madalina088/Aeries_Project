@@ -65,7 +65,6 @@ We need to find and prevent defects and raise the trust in the quality of the pr
 Login Module, Settings Module: Change Password, Change E-mail, Configure Grade Alerts, Add New Student To Your Account, Log Out
 -	the features in scope for testing: Login Module, Settings Module: Change Password, Change E-mail
 -	testing types used: Functional testing like Graphical User Interface(GUI) Functional Testing
--	test level: System Testing 
 
 ### 1.3	 Functionalities and tests out of scope ###
 
