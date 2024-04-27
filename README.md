@@ -156,7 +156,6 @@ Product Risks:
 ### 3.2 Test conditions ###
 
 -	we will use test environment
--	testing using new accounts and older account is necessary
 -	the following test conditions could be found here: *[Test Conditions. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
 
 ### 3.3	  Test cases ###
