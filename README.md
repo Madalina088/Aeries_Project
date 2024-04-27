@@ -185,7 +185,7 @@ Product Risks:
 
 ### 3.6 Test case results ###
 
- -  the test cases results could be found here: *[Test Cases Results. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases.xlsx)
+ -  the test cases results could be found here: *[Test Cases Results. ](https://github.com/Madalina088/Aeries_Project/blob/main/Test%20Cases%20Result.csv) 
 
 ### 3.7 Bugs report ###
 
