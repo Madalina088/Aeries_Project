@@ -49,15 +49,15 @@
 
 ## 1. Introduction ##
 
-The Aeries project aims to provide an information system for students and parents where they can log into to check grades, update contact information, and see any other information the school provides.
-This release will have limited features. Over a period of time, new and new functionalities of the software product will be added.
+The Aeries project intends to give students and parents with an information system where they may check grades, update contact information, and access any other school-provided information. 
+This release will have restricted features. Over time, the software product's functionality will expand.
 
 ### 1.1	Project Objective ###
 
-We need to find and prevent defects and raise the trust in the quality of the project as high as possible before releasing it to customers.
+Before distributing the project to clients, we must detect and prevent defects while also increasing trust in its quality.
 - Application under test: [Aeries Parent Portal](https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234)
 - Application documentation: 
-[suporting documentation](https://support.aeries.com/support/home) - [API documentation](https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation)
+[Suporting Documentation](https://support.aeries.com/support/home) - [API Documentation](https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation)
 
 ### 1.2 Functionalities in scope ###
 
